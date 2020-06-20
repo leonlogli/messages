@@ -1,4 +1,3 @@
-# messages
 building a NodeJS/Express web-app to POST/GET data from MongDB via Mongoose - Ajax JQuery + Bootstrap view
 
 See the live demo here [live demo here](https://messages-web-app.herokuapp.com).
